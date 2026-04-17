@@ -1,1 +1,14 @@
-# Actividad-No.-1-de-24000468-Desarrollo-de-Aplicaciones-Web-Oscar-V-
+# To-Do List App
+
+## 🚀 Cómo ejecutar
+
+1. Clonar el repositorio
+2. Instalar dependencias:
+   npm install
+3. Ejecutar:
+   npm start
+
+## 🛠 Tecnologías
+- React
+- React Bootstrap
+- CSS
